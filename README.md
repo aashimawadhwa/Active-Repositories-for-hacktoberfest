@@ -11,6 +11,7 @@
 
  
 These are some begginer friendly projects where one can learn how to contribute to Open Source ⭐ , how deployed projects work and can contribute for hacktoberfest.
+
 one can take project ideas from below to so it's a win win!🏆🏆🏆
 
 
