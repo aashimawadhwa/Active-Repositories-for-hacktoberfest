@@ -38,7 +38,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
-- If you find any repository inactive you can tag it under project idea by creating a pr.
+- If you find any repository inactive you can tag it under project idea by creating a PR.
 - let's hacktober!!❤️.
 
 
