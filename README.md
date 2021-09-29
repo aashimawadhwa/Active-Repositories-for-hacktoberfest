@@ -41,7 +41,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 - If you find any repository inactive you can create an issue.
 - let's hacktober!!❤️.
 
-
+If you like this you can ⭐ it, do add some pull request or leave link in issues if you know some more great repositories 😊💕 
 
 
 
