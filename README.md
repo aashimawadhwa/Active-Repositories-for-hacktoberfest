@@ -1,4 +1,14 @@
 # Active-Repositories-for-hacktoberfest
+
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat&logo=github)
+![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=brightgreen&style=flat&logo=github)&nbsp;
+![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)
+
+
+
+
  
 These are some begginer friendly projects where one can learn how to contribute to Open Source ⭐ , how deployed projects work and can contribute for hacktoberfest.
 one can take project ideas from below to so it's a win win!🏆🏆🏆
