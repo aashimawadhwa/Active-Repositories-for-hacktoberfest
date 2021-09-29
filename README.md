@@ -8,7 +8,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 <img align="center" height="500" width= "500" src="https://user-images.githubusercontent.com/73706697/135315829-9128ebbb-5f87-489d-a63e-bc6a98d6331f.gif" />
 
 
-| Name of Project (with url)|  Tech Stack     |
+| Name of Project |  Tech Stack     |
 | :---        |    :----:   | 
 |[Awesome python scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts)      | Python  |
 |[Upcharika](https://github.com/smaranjitghose/Upcharika)  | Dart  |
