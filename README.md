@@ -1,8 +1,11 @@
 # Active-Repositories-for-hacktoberfest
  
 These are some begginer friendly projects where one can learn how to contribute to Open Source ⭐ , how deployed projects work and can contribute for hacktoberfest.
-
 one can take project ideas from below to so it's a win win!🏆🏆🏆
+
+
+
+<img align="center" height="500" width= "500" src="https://user-images.githubusercontent.com/73706697/135315829-9128ebbb-5f87-489d-a63e-bc6a98d6331f.gif" />
 
 
 | Name of Project (with url)|  Tech Stack     |
@@ -18,7 +21,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Care4ther-](https://github.com/unnati914/Care4ther-)| ML and Android  |
 |[Balance_me](https://github.com/yashikajotwani12/Balanced_Me)|HTML , CSS , Python  |
 |[Injektors](https://github.com/CodXCrypt/Injektors) | HTML, CSS|
+|[]()|  |
+|[]()|  |
+|[]()|  |
 
-|[]()|  |
-|[]()|  |
-|[]()|  |
