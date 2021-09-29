@@ -32,7 +32,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Care4ther-](https://github.com/unnati914/Care4ther-)| ML and Android  |
 |[Balance_me](https://github.com/yashikajotwani12/Balanced_Me)|HTML , CSS , Python  |
 |[Injektors](https://github.com/CodXCrypt/Injektors) | HTML, CSS|
-|[]()|  |
+|[Code Red](https://github.com/aashimawadhwa/Code-Red)| HTML, CSS, JavaScript |
 |[]()|  |
 |[]()|  |
 
