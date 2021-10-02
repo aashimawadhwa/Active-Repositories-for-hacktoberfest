@@ -33,7 +33,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Balance_me](https://github.com/yashikajotwani12/Balanced_Me)|HTML , CSS , Python  |
 |[Injektors](https://github.com/CodXCrypt/Injektors) | HTML, CSS|
 |[Code Red](https://github.com/aashimawadhwa/Code-Red)| HTML, CSS, JavaScript |
-|[]()|  |
+|[Makes Maths Easy](https://github.com/makesmatheasy/makesmatheasy)|  HTML , CSS ,Javascript|
 |[]()|  |
 
 - Feel free to contribute and add more active repos.
