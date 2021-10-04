@@ -34,7 +34,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Injektors](https://github.com/CodXCrypt/Injektors) | HTML, CSS|
 |[Code Red](https://github.com/aashimawadhwa/Code-Red)| HTML, CSS, JavaScript |
 |[Makes Maths Easy](https://github.com/makesmatheasy/makesmatheasy)|  HTML , CSS ,Javascript|
-|[]()|  |
+|[HactoberFest-Project-2021](https://github.com/DSC-Galgotias/HacktoberFest-Projects-2021)| Discrete Tech Stack |
 
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
