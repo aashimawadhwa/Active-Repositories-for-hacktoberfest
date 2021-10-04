@@ -35,7 +35,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Code Red](https://github.com/aashimawadhwa/Code-Red)| HTML, CSS, JavaScript |
 |[Makes Maths Easy](https://github.com/makesmatheasy/makesmatheasy)|  HTML , CSS ,Javascript|
 |[HactoberFest-Project-2021](https://github.com/DSC-Galgotias/HacktoberFest-Projects-2021)| Discrete Tech Stack |
-
+|[My First PR](https://github.com/quintessences/my-first-pr/pulls) |Documentation|
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
 - If you find any repository inactive you can create an issue.
