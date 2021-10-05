@@ -36,6 +36,10 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Makes Maths Easy](https://github.com/makesmatheasy/makesmatheasy)|  HTML , CSS ,Javascript|
 |[HactoberFest-Project-2021](https://github.com/DSC-Galgotias/HacktoberFest-Projects-2021)| Discrete Tech Stack |
 |[My First PR](https://github.com/quintessences/my-first-pr/pulls) |Documentation|
+|[Leet-Code](https://github.com/iamshubhamg/Leet-Code) | Python |
+|[Hacktober_Repo](https://github.com/Saurabh2509/Hacktober_Repo)| Python , Java  |
+|[Income-Tax-Calculator](https://github.com/QAZIMAAZARSHAD/Income-Tax-Calculator) |Python|
+
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
 - If you find any repository inactive you can create an issue.
