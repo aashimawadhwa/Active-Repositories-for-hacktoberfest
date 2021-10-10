@@ -41,7 +41,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Income-Tax-Calculator](https://github.com/QAZIMAAZARSHAD/Income-Tax-Calculator) |Python|
 |[Mini-Youtube](https://github.com/vinitshahdeo/MiniYouTube)| React|
 | [Cross-Fire](https://github.com/KunalRaghav/CrossFire)| kotlin |
-
+|[Quotes_API](https://github.com/shmehdi01/quote_api_ktor)| kotlin|
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
 - If you find any repository inactive you can create an issue.
