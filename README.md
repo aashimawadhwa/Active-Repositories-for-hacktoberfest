@@ -39,6 +39,8 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Leet-Code](https://github.com/iamshubhamg/Leet-Code) | Python |
 |[Hacktober_Repo](https://github.com/Saurabh2509/Hacktober_Repo)| Python , Java  |
 |[Income-Tax-Calculator](https://github.com/QAZIMAAZARSHAD/Income-Tax-Calculator) |Python|
+|[Mini-Youtube](https://github.com/vinitshahdeo/MiniYouTube)| React|
+| [Cross-Fire](https://github.com/KunalRaghav/CrossFire)| kotlin |
 
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
