@@ -42,6 +42,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Mini-Youtube](https://github.com/vinitshahdeo/MiniYouTube)| React|
 | [Cross-Fire](https://github.com/KunalRaghav/CrossFire)| kotlin |
 |[Github_Look-Book](https://github.com/vinitshahdeo/GitHubLookBook)| HTML, CSS , Javascript|
+|[Certificate_UI](https://github.com/praveenscience/Certificate-Generator-UI)| HTML, CSS , Javascript |
 |[Quotes_API](https://github.com/shmehdi01/quote_api_ktor)| kotlin|
 - Feel free to contribute and add more active repos.
 - You can add your own projects too.
