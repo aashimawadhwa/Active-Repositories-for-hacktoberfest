@@ -32,6 +32,7 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Certificate_UI](https://github.com/praveenscience/Certificate-Generator-UI)| HTML, CSS , Javascript |
 |[Makes Maths Easy](https://github.com/makesmatheasy/makesmatheasy)|  HTML , CSS ,Javascript|
 |[Leet-Code](https://github.com/iamshubhamg/Leet-Code) | Python |
+|[DSA questions](https://github.com/kanak22/CP-DSA-Questions)      | Any Programming Languages |
 
 
 ## List of inactive projects wrt to Hacktoberfest
