@@ -36,11 +36,6 @@ one can take project ideas from below to so it's a win win!🏆🏆🏆
 |[Your-Portfolio-website](https://github.com/jwalapc/Your-Portfolio-website)| HTML , CSS ,Javascript,Java|
 |[Medico](https://github.com/jwalapc/medico)      | HTML , CSS , JAVASCRIPT |
 |[My first contribution](https://github.com/jwalapc/firstcontribution)      | HTML , CSS , JAVASCRIPT |
-
-
-## List of inactive projects wrt to Hacktoberfest
-| Name of Project |  Tech Stack     |
-| :---        |    :----:   | 
 |[Upcharika](https://github.com/smaranjitghose/Upcharika)  | Dart  |
 |[Rudra](https://github.com/Harshal0902/Rudra) | HTML , CSS ,Javascript|
 |[Fitmate](https://github.com/Code-Sauce-Official/FitMate)| kotlin|
